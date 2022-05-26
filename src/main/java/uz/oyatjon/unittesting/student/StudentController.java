@@ -1,7 +1,6 @@
-package uz.elmurodov.unittesting.student;
+package uz.oyatjon.unittesting.student;
 
 import lombok.RequiredArgsConstructor;
-import org.springframework.data.domain.PageRequest;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

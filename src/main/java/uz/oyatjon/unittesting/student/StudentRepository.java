@@ -1,4 +1,4 @@
-package uz.elmurodov.unittesting.student;
+package uz.oyatjon.unittesting.student;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

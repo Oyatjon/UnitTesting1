@@ -1,4 +1,4 @@
-package uz.elmurodov.unittesting.student;
+package uz.oyatjon.unittesting.student;
 
 import lombok.Getter;
 import lombok.Setter;

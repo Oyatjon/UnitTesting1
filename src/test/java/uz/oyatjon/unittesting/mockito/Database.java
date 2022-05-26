@@ -1,4 +1,4 @@
-package uz.elmurodov.unittesting.mockito;
+package uz.oyatjon.unittesting.mockito;
 
 public class Database {
 

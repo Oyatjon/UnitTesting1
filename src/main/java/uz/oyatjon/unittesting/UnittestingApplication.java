@@ -1,4 +1,4 @@
-package uz.elmurodov.unittesting;
+package uz.oyatjon.unittesting;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import org.springframework.boot.SpringApplication;
